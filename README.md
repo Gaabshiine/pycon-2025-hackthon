@@ -1,4 +1,6 @@
-# 🌽 Fall Armyworm Detection using Deep Learning
+# 🌽 Fall Armyworm Detection using Deep 
+
+
 ### PyCon Somalia 2025 Hackathon  
 𝐓𝐞𝐚𝐦: SomByte (Somali Byte)
 
@@ -58,3 +60,26 @@ pycon-2025-hackthon/
 ├── maize_faw_baseline2.ipynb # Colab notebook that decided "ResNet18", "ResNet34", "Blend"
 ├── requirements.txt
 └── README.md
+
+---
+
+## 📌 Reproducibility 
+Seed fixed: 1337
+Environment: Google Colab (T4 GPU)
+Run the notebook: maize_faw_baseline2.ipynb
+
+---
+
+## 🌍 Impact 
+Provides fast, accurate pest detection.
+Supports Somali farmers and food security.
+Future: mobile app deployment + expansion with local data.
+
+---
+
+## 👥 Team 
+SomByte (Somali Byte)
+1- Abdisalan Abdukadir Mohamed
+2- Ibrahim Ahmed Abdirahman
+3- Mohamed Dahir Ahmed
+
