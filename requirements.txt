@@ -1,8 +1,8 @@
-torch
-torchvision
-scikit-learn
-pillow
-tqdm
-numpy
-pandas
-matplotlib
+torch>=2.1,<2.4
+torchvision>=0.16,<0.19
+scikit-learn>=1.3,<1.6
+pillow>=10.0,<12.0
+tqdm>=4.66,<5.0
+numpy>=1.26,<3.0
+pandas>=2.1,<3.0
+matplotlib>=3.8,<4.0
